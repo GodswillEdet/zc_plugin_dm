@@ -18,5 +18,5 @@ This project is a monolith application.
 
 ## Backend framework used
 <ul>
-  <li>Python Django</li>
+  <li>Django</li>
 </ul>
